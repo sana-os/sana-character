@@ -1,3 +1,10 @@
+> [!NOTE]
+> **アーカイブ済み**：このリポジトリは、SANA の最初の系統（キャラクター時代の v2.0、2025年10月〜2026年1月、SEOL v1.7）を保存したものです。
+> AI が主に会話の相手として使われていた時期に作られ、SANA のキャラクターを前面に出していました。
+> その後 SANA は、前提を整列させるための OS「**SANA OS**」として作り直され、
+> https://github.com/sana-os/sana-os で続いています（v1.0〜、SANA OS License v1.0）。二つの系統の関係は、そちらの `HISTORY.md` を参照してください。
+> このリポジトリは記録として、変更せずに読み取り専用で残しています。
+
 
 <img src="./docs/img/SANA OS Project Image_JA.png" alt="SANA OS バナー" width="600">
 

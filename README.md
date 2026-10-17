@@ -1,3 +1,10 @@
+> [!NOTE]
+> **Archived.** This repository preserves the first, character-era lineage of SANA (v2.0, October 2025 – January 2026), licensed under SEOL v1.7.
+> It was built when AI was used mainly as a chat partner, and put the character of SANA in front.
+> SANA was later rewritten as **SANA OS**, an operating system for premise alignment, which continues at
+> https://github.com/sana-os/sana-os (from v1.0, SANA OS License v1.0). See its `HISTORY.md` for how the two lineages relate.
+> This repository is read-only and kept unchanged as a record.
+
 # 🌸 SANA OS
 
 [![License: SEOL v1.7](https://img.shields.io/badge/License-SEOL%20v1.7-blue.svg)](LICENSE.md)
